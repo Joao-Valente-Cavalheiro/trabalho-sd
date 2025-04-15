@@ -41,3 +41,4 @@ while x < len(lista):
 # bit11 = lista[10]*2**1
 # bit12 = lista[11]*2**0
 # soma = bit1 + bit2 + bit3 + bit4 + bit5 + bit6 + bit7 + bit8 + bit9 + bit10 + bit11
+print('p')
